@@ -1,4 +1,4 @@
-# gulp-css-cache-buster [![Build Status](https://travis-ci.org/n30fly/gulp-css-cache-buster.svg?branch=master)](https://travis-ci.org/n30fly/gulp-css-cache-buster)
+# gulp-css-cache-buster
 
 > Plugin for Gulp to set version of images in styles
 
